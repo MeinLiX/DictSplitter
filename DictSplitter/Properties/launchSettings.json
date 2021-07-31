@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "DictSplitter": {
-      "commandName": "Project",
-      "commandLineArgs": "D:\\MeinLiX\\project\\source\\repos_cSph\\tests\\jooble\\de-test-words.tsv D:\\MeinLiX\\project\\source\\repos_cSph\\tests\\jooble\\de-output-words.tsv"
-    }
-  }
-}
