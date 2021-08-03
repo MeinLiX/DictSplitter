@@ -6,6 +6,13 @@ namespace DictSplitter
 {
     class Program
     {
+        /// <summary>
+        /// Entry program
+        /// </summary>
+        /// <param name="args">
+        /// FIRST: path with INPUT WORDS
+        /// SECOND: path with OUTPUT WORDS
+        /// </param>
         static void Main(string[] args) 
         {
             if (args.Length != 2)
